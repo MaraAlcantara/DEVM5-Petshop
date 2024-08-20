@@ -1,0 +1,179 @@
+.banner {
+    background-image: url('../img/banner-topo.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.banner .logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.banner .logo .titulo {
+    font-size: 35px;
+    margin-bottom: 0 0 5px 0;
+}
+
+.banner .logo .titulo img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.banner .logo .subtitulo {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.banner .slogan {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+    text-align: center;
+}
+
+.banner .slogan h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.banner .slogan a {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffff;
+}
+
+.banner .slogan img {
+    width: 20px;
+}
+
+.servicos {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.servicos ul {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+    font-size: 20px; 
+}
+
+.servicos ul li {
+    margin: 0 0 20px 0;
+}
+
+.servicos .img-servicos {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.servicos .img-servicos img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa {
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.faixa p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.faixa p span {
+    font-style: italic;
+}
+
+.faixa div a {
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.faixa div a img {
+    width: 50px;
+    height: 50px;
+}
+
+.marcas {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.marcas .img-marcas {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+.marcas .img-marcas img {
+    width: 148px;
+    width: 148px;
+    margin: 0 15px;
+}
+
+.localizacao {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.localizacao p {
+    font-size: 20px;
+    color: #3c184e;
+    margin: 0 0 45px 0;
+}
+
+.localizacao iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.rodape p {
+    color:#fff;
+    font-size: 12px;
+    text-align: center;
+}
+
+.rodape p a {
+    text-decoration: none;
+    color:#fff;
+    
+}
+
+h2 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+span {
+    font-weight: 700;
+}
